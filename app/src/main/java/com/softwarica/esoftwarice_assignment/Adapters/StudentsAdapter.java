@@ -12,6 +12,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.softwarica.esoftwarice_assignment.EditDetailsActivity;
 import com.softwarica.esoftwarice_assignment.Model.Students;
 import com.softwarica.esoftwarice_assignment.R;
 
